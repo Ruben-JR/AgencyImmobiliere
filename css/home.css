@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../img/Home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav-bar{
+    margin-top: 2.5%;
+    margin-left: 10%;
+}
+
+.nav-item{
+    display: inline;
+    background-color: rgb(66, 48, 36);
+    border-radius: 8%;
+}
+
+.nav-item, a{
+    color: white;
+    text-decoration: none;
+    font-family: verdana;
+    padding: 0.3%;
+}
+
+a:hover{
+    color:grey;
+}
+
+h1{
+    margin-left: 23%;
+    margin-top: 3.6%;
+    color: rgb(121, 98, 82);
+}
+
+.reserva{
+    margin-top: 28%;
+    margin-left: 80%;
+}
+
+a{
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(66, 48, 36);
+}

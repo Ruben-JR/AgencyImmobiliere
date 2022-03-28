@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(223, 212, 212, 0.829);
+}
+
+.container{
+    margin-left: 3.5%;
+    margin-top: 2%;
+}
+
+.image{
+    width: 800px;
+    height: 600px;
+}
+
+.image, .text{
+    display: inline;
+    float: left;
+}
+
+.container, .text{
+    font-size: 25px;
+    color: rgb(121, 98, 82);
+    font-family: 'Times New Roman', Times, serif;
+}
