@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(223, 212, 212, 0.829);
+}
+
+.container-master{
+    margin-top: 5%;
+    margin-left: 8%;
+    padding: 2%;
+}
+
+.conteudo{
+    margin-top: 5%;
+}
+
+.conteudo, .image{
+    display: inline;
+    float: left;
+}
+
+.conteudo-01, .conteudo-02{
+    color: rgb(121, 98, 82);
+}
+
+.villa{
+    margin-left: 40%;
+}
+
+.conteudo-02{
+    margin-top: 5%;
+}
+
+.list-1{
+    margin-left: 5%;
+}
+
+.list-2{
+    margin-left: 8%;
+}
+
+.list-1, .list-2{
+    display: inline;
+    float: left;
+    font-size: 17px;
+    margin-top: 5%;
+}
+
+.image{
+    margin-left: 5%;
+}
+
+.img-1{
+    width: 650px;
+    height: 300px;
+}
+
+.img-3{
+    margin-left: 0.7%;
+}
+
+.img-2, .img-3{
+    width: 320px;
+    height: 150px;
+}

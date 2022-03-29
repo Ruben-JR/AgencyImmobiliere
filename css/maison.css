@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(223, 212, 212, 0.829);
+}
+
+.container-master{
+    margin-top: 5%;
+    margin-left: 8%;
+    padding: 2%;
+}
+
+.img-1{
+    width: 650px;
+    height: 300px;
+}
+
+.maison-2{
+    margin-top: 2%;
+}
+
+.maison-3{
+    margin-left: 1%;
+}
+
+.maison-2, .maison-3{
+    width: 320px;
+    height: 150px;
+}
+
+.image, .conteudo{
+    display: inline;
+    float: left;
+}
+
+.conteudo{
+    margin-top: 1%;
+    margin-left: 8%;
+    font-size: 25px;
+}
+
+.conteudo-01{
+    color: rgb(121, 98, 82);
+}
+
+.maison{
+    margin-left: 38%;
+}
+
+.conteudo-02{
+    margin-top: 5%;
+    color: rgb(121, 98, 82);
+}
+
+.list{
+    margin-top: 10%;
+}
+
+.list-1{
+    margin-left: 4%;
+}
+
+.list-2{
+    margin-left: 10%;
+}
+
+.list-1, .list-2{
+    display: inline;
+    float: left;
+}
+
+.conteudo-03{
+    margin-top: 20%;
+}
+
+.btn-button{
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    background-color: rgb(66, 48, 36);
+}
+
+.btn-button:hover{
+    color:grey;
+}

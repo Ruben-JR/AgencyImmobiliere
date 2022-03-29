@@ -29,10 +29,6 @@ body{
     padding: 0.3%;
 }
 
-a:hover{
-    color:grey;
-}
-
 h1{
     margin-left: 23%;
     margin-top: 3.6%;
@@ -48,4 +44,8 @@ a{
     border-radius: 5px;
     padding: 3px;
     background-color: rgb(66, 48, 36);
+}
+
+a:hover{
+    color:grey;
 }

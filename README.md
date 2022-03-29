@@ -6,7 +6,7 @@
 
 
 <h3>Layout of the project</h3>
-<p>If you want to see the final product just click: https://www.instagram.com/p/Caf2ykxK5lU/</p>
+<p>If you want to see the same product just click: https://www.instagram.com/p/Caf2ykxK5lU/</p>
 
 <h3>Objective</h3> 
 

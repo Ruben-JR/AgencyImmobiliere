@@ -10,8 +10,7 @@ body{
 }
 
 .container{
-    margin-left: 3.5%;
-    margin-top: 2%;
+    margin: 3%;
 }
 
 .image{
@@ -27,5 +26,4 @@ body{
 .container, .text{
     font-size: 25px;
     color: rgb(121, 98, 82);
-    font-family: 'Times New Roman', Times, serif;
 }
