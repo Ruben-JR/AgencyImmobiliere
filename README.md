@@ -1,15 +1,15 @@
 <h3>Agency immobiliere</h3> 
 <div style="display: inline_block">
     <img align="center" alt="Home-Page" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/161028792-862e6cc0-ed85-48e9-8b97-cbf88796624a.png">
-    <img align="center" alt="Profil-Page" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/161027461-0dd6edaa-f5d2-42fe-aa95-e79b7c8f9ea0.png">
-    <img align="center" alt="Maison-Page" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/161027141-3aad2b01-6c87-4df6-87ce-926584548706.png">
-    <img align="center" alt="Villa-Page" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/161027743-5003ab43-de1a-4c25-bcaa-cd53e91f71e5.png">
+    <img align="center" alt="Profil-Page" height="300" width="500" src="https://user-images.githubusercontent.com/75695011/161027461-0dd6edaa-f5d2-42fe-aa95-e79b7c8f9ea0.png">
+    <img align="center" alt="Maison-Page" height="300" width="500" src="https://user-images.githubusercontent.com/75695011/161027141-3aad2b01-6c87-4df6-87ce-926584548706.png">
+    <img align="center" alt="Villa-Page" height="300" width="500" src="https://user-images.githubusercontent.com/75695011/161027743-5003ab43-de1a-4c25-bcaa-cd53e91f71e5.png">
 <hr>
 
 <h3>About the project</h3>
 <p>This project was created to put into practice the knowledge acquired in HTML and CSS courses. This project was inpired by other in instagram.</p>   
 
-<p>If you want to see the original design that i inspired click<a href=" https://www.instagram.com/p/Caf2ykxK5lU/">here</a></p>
+<p>If you want to see the original design that i inspired click <a href=" https://www.instagram.com/p/Caf2ykxK5lU/">here</a></p>
 <hr>
 
 <h3>Objective</h3> 
