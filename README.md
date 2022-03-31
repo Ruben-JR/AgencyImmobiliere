@@ -9,7 +9,8 @@
 <h3>About the project</h3>
 <p>This project was created to put into practice the knowledge acquired in HTML and CSS courses. This project was inpired by other in instagram.</p>   
 
-<p>If you want to see the original design that i inspired click <a href=" https://www.instagram.com/p/Caf2ykxK5lU/">here</a></p>
+<p>If you want to see the original design that i inspired follow the link: 
+```https://www.instagram.com/p/Caf2ykxK5lU/"```</p>
 <hr>
 
 <h3>Objective</h3> 
