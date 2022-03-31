@@ -23,6 +23,11 @@ body{
     float: left;
 }
 
+.text{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
 .container, .text{
     font-size: 25px;
     color: rgb(121, 98, 82);
