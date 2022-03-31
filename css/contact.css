@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cont-image{
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    position: absolute;
+    z-index: 99;
+}
+
+.cont-2{
+    font-size: 50px;
+    color: rgb(121, 98, 82);
+}
+
+.cont-2, .cont-3{
+    margin-left: 8%;
+    padding: 2%;
+}
+
+.cont-3{
+    width: 60%;
+    height: 40%;
+    margin-top: 15%;
+    margin-left: 20%;
+    background-color: rgba(223, 212, 212, 0.829);
+}
+
+h4{
+    font-size: 20px;
+    color:  rgb(121, 98, 82);
+}
+
+.adress{
+    margin-left: 10%;
+}
+
+.adress, .numero{
+    display: inline;
+    float: left;
+}
+
+.location, .email{
+    font-size: 15px;
+    color:  rgb(121, 98, 82);
+}
+
+.email-1{
+    margin-top: 5%;
+}
+
+.location img, .email img{
+    width: 16px;
+    height: 14px;
+    margin-top: 1.5%;
+}
+
+.numero{
+    margin-left: 10%;
+}
+
+.phone, .internet{
+    font-size: 15px;
+    color:  rgb(121, 98, 82);
+}
+
+.info{
+    margin-top: 5%;
+}
+
+.phone img, .internet img{
+    width: 16px;
+    height: 14px;
+    margin-top: 1.5%;
+}
