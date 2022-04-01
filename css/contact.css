@@ -18,7 +18,7 @@ body{
 
 .cont-2{
     font-size: 50px;
-    color: rgb(121, 98, 82);
+    color: rgb(61, 53, 48);
 }
 
 .cont-2, .cont-3{
@@ -36,21 +36,19 @@ body{
 
 h4{
     font-size: 20px;
-    color:  rgb(121, 98, 82);
+    color:  rgb(61, 53, 48);
 }
 
 .adress{
-    margin-left: 10%;
+    margin-left: 20%;
 }
 
 .adress, .numero{
-    display: inline;
-    float: left;
+    display: inline-block;
 }
 
 .location, .email{
     font-size: 15px;
-    color:  rgb(121, 98, 82);
 }
 
 .email-1{
@@ -64,12 +62,12 @@ h4{
 }
 
 .numero{
-    margin-left: 10%;
+    margin-left: 15%;
 }
 
 .phone, .internet{
     font-size: 15px;
-    color:  rgb(121, 98, 82);
+    color:  rgb(58, 47, 39);
 }
 
 .info{
