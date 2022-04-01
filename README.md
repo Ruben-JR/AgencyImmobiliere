@@ -16,7 +16,7 @@
 <hr>
 
 <h3>Objective</h3> 
-<p>The goal of this project is to search and inspired in interesting designs on inteenet and develop him using simple technologies like HTML and CSS to practices my skillsand make me a better developer.</p>
+<p>The goal of this project is to search and inspired in interesting designs on inteenet and develop him using simple technologies like HTML and CSS to practices my skills and make me a better developer.</p>
 <hr>
 
 <h3>Technology used</h3>
