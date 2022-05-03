@@ -27,7 +27,7 @@
 </div></p>
 <hr>
 
- <h3>Author</h3> 
+<h3>Author</h3> 
 <p>Ruben de Pina</p>
 <p><div>
     <a href = "mailto:rubenpina758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
